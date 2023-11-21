@@ -1,4 +1,9 @@
-site_name: My Docs
+site_name: seLab
 nav:
-  - 홈: index.md
-  - 사용법: how.md
+  - Main: seLab.md
+  - Professer: Propfesser.md
+  - Members: Members.md
+  - Research&Projects: Research&Projects.md
+  - Resources: Resources.md
+  - Photo: Photo.md
+  - Contact: Contact.md
