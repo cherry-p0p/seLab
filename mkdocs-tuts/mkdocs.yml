@@ -1,1 +1,4 @@
 site_name: My Docs
+nav:
+  - 홈: index.md
+  - 사용법: how.md
