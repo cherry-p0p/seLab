@@ -31,3 +31,8 @@ Our lab strives for academic excellence and social contribution through research
 </div>
 
 </div>
+
+## Contact Information
+
+- **Office**: Gachon University, AI공학관 310호
+- **Email**: [hwanghj@gachon.ac.kr](mailto:hwanghj@gachon.ac.kr)
