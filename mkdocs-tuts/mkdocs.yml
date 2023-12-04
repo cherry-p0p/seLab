@@ -1,9 +1,16 @@
 site_name: seLab
+
 nav:
   - Main: seLab.md
-  - Professer: Propfesser.md
+  - Professor: Professor.md
   - Members: Members.md
-  - Research&Projects: Research&Projects.md
+  - Research & Projects: Research&Projects.md
   - Resources: Resources.md
   - Photo: Photo.md
   - Contact: Contact.md
+
+theme: material
+
+markdown_extensions:
+  - pymdownx.superfences
+  - attr_list
