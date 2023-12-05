@@ -1,4 +1,4 @@
-## 학부연구생
+## undergraduate research student
 
 - 노명준
 - 채리원
